@@ -1,14 +1,18 @@
 /*This is the design for the header (applies to all pages)*/
+@mixin fontDesign {
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
 .mainTittle{
     h1{
-        font-family: $italicFont;
         font-size: 45px;
-        font-weight: bolder;
+        @include fontDesign;
     }
+
     h2{
-        font-family: $normalFont;
         font-size: 15px;
-        font-weight: bolder;
+        @include fontDesign;
     }
     img {
         width: 60px;

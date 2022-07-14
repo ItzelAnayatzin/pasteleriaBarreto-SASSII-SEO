@@ -7,13 +7,13 @@
 
 /*This is the design for the header (applies to all pages)*/
 .mainTittle h1 {
-  font-family: Waterfall;
   font-size: 45px;
+  font-family: Montserrat;
   font-weight: bolder; }
 
 .mainTittle h2 {
-  font-family: Montserrat;
   font-size: 15px;
+  font-family: Montserrat;
   font-weight: bolder; }
 
 .mainTittle img {
@@ -32,8 +32,8 @@
     font-size: 22px;
     font-weight: bolder; }
   .footer p {
-    font-family: Montserrat;
     font-size: 12px;
+    font-family: Montserrat;
     font-weight: bolder; }
 
 .paymentLogo {

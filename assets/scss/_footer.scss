@@ -1,15 +1,19 @@
 /*This is the design for the footer (applies to all pages)*/
+@mixin fontDesign {
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
 .footer{
-    background-color: #eab4e979;
+    background-color: $purpleBackground;
     h5{
         font-family: $italicFont;
         font-size: 22px;
         font-weight: bolder;
     }
     p{
-        font-family: $normalFont;
         font-size: 12px;
-        font-weight: bolder;
+        @include fontDesign;
     }
 }
 
