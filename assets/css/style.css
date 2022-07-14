@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Waterfall&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/*This is the design for the header (applies to all pages)*/
+.mainTittle h1 {
+  font-family: Waterfall;
+  font-size: 45px;
+  font-weight: bolder; }
+
+.mainTittle h2 {
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: bolder; }
+
+.mainTittle img {
+  width: 60px; }
+
+/*This is the design for the navigation bar (applies to all pages)*/
+.navbar {
+  font-family: Montserrat;
+  font-weight: bolder; }
+
+/*This is the design for the footer (applies to all pages)*/
+.footer {
+  background-color: #eab4e979; }
+  .footer h5 {
+    font-family: Waterfall;
+    font-size: 22px;
+    font-weight: bolder; }
+  .footer p {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: bolder; }
+
+.paymentLogo {
+  width: 200px; }
+
+.socialMedia a img {
+  width: 30px; }
+
+/*This is the design for the page ''index''*/
+.delivery {
+  font-family: Montserrat; }
+  .delivery h3 {
+    font-weight: bold; }
+  .delivery p {
+    font-weight: bolder; }
+  .delivery img {
+    width: 70px; }
+
+.shopOnline {
+  font-family: Montserrat; }
+  .shopOnline h3 {
+    font-weight: bold; }
+  .shopOnline p {
+    font-weight: bolder; }
+  .shopOnline img {
+    width: 50px; }
+
+/*This is the design for the page ''nosotros''*/
+.greetingImg {
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Montserrat; }
+
+.greetingImg {
+  background-image: url(../img/backgroundAu.jpg); }
+  .greetingImg h2 {
+    font-weight: bolder; }
+  .greetingImg p {
+    font-weight: bold; }
+
+.biosOwners {
+  font-family: Montserrat; }
+  .biosOwners h3 {
+    font-weight: bolder; }
+  .biosOwners p {
+    font-weight: bold;
+    text-align: justify; }
+
+.bioOwner img {
+  width: 50%; }

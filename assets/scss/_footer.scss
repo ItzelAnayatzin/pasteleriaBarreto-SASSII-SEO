@@ -1,0 +1,26 @@
+/*This is the design for the footer (applies to all pages)*/
+.footer{
+    background-color: #eab4e979;
+    h5{
+        font-family: $italicFont;
+        font-size: 22px;
+        font-weight: bolder;
+    }
+    p{
+        font-family: $normalFont;
+        font-size: 12px;
+        font-weight: bolder;
+    }
+}
+
+.paymentLogo{
+    width: 200px;
+}
+
+.socialMedia{
+    a{
+        img{
+            width: 30px;
+        }
+    } 
+} 
