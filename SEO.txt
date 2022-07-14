@@ -1,0 +1,13 @@
+SEO
+•	Agregué los títulos de cada página para que aparezcan en la pestaña.
+•	Añadí la etiqueta ‘’Keywords’’ con las palabras: pastel, pastelería, rosca, Colima, Villa de Álvarez, a domicilio, chocolate, vainilla, moka, café, tres leches.
+•	Añadí la etiqueta ‘’Description’’ con las frases: 
+		INDEX: Preparamos de deliciosos pasteles y roscas para toda ocasión. Ordena y recibe en tienda o lo llevamos a tu casa en Colima - Villa de Álvarez.
+		NOSOTROS: Conoce al equipo Pasteles D' Liz, nuestra misión es brindarte el mejor servicio.
+		NUESTRAS DELICIAS: Te ofrecemos una gran variedad de pasteles y roscas para todos los gustos que puedes personalizar para cualquier ocasión.
+		ENCUENTRANOS: Nos encontramos en Nicasio Carbajal Flores 479, Alfredo V. Bonfil en Villa de Álvarez, Colima. Descansamos los lunes.
+		CONTACTO: Si deseas que nos pongamos en contacto contigo o te interesa hacer un pedido personalizado llena este sencillo formulario. Te responderemos rápidamente.
+•	Coloqué descripciones en todas las etiquetas ‘’alt’’ de las imágenes para facilitar la accesibilidad a personas con discapacidad visual.
+•	Para el link de Facebook agregué target="_blank" para que se abra una nueva pestaña y lxs usuarixs no salgan del sitio.
+
+
